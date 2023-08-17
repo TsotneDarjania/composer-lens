@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ComposerLens
+ComposerLens is a web application that allows users to explore and discover classical composers and their works, categorized according to their level of expertise. Built with Next.js and powered by Appwrite for backend services, ComposerLens aims to provide a user-friendly platform for music enthusiasts and learners to navigate the world of classical compositions.
+
+Features
+Comprehensive Composer Database: Access a rich collection of classical composers and their compositions, categorized by skill levels.
+User Profiles: Create and manage user profiles, track favorite composers, and bookmark compositions.
+Level-Based Exploration: Explore composers' works based on difficulty levels, making it suitable for both beginners and experienced musicians.
+Detailed Composer Pages: Dive into detailed composer profiles, biographies, and links to their notable compositions.
+Interactive Learning: Listen to audio samples, view sheet music, and access educational content related to each composition.
 
 ## Getting Started
 
